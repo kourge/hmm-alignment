@@ -12,7 +12,7 @@ Some environment variables can be set.
   in memory. This is used to artificially reduce the size of the data set.
 * If `SPECIES` is set, then its value will be used as the species label when
   producing the new 13-protein multiple alignment. Otherwise the label will
-  default to 'Unknown_species'. Per assingment specs, this value should not
+  default to `Unknown_species`. Per assingment specs, this value should not
   contain any spaces.
 * If `LINEAR` is set to any value, then the program will run sequentially
   without any sort of parallelization, even if it is running on JRuby.
