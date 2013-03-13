@@ -1,0 +1,198 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+Bacillus_megaterium         ------------------------------------------------------------
+Homo_sapiens                MRALWVLGLCCVLLTFGSVRADDEVDVDGTVEEDLGKSREGSRTDDEVVQREEEAIQLDG
+Rickettsia_conorii          ------------------------------------------------------------
+Coxiella_burnetii           -------------------------------------------MKFSHRPQYPNKENKNL
+Burkholderia_mallei         ------------------------------------------------------------
+Burkholderia_sp.            ------------------------------------------------------------
+Erwinia_amylovora           ------------------------------------------------------------
+Escherichia_coli            ------------------------------------------------------------
+Dickeya_zeae                ------------------------------------------------------------
+Gluconobacter_oxydans       ------------------------------------------------------------
+Rhizobium_etli              ------------------------------------------------------------
+Sinorhizobium_meliloti      ------------------------------------------------------------
+                                                                                        
+
+Bacillus_megaterium         ------------MSKKEFKAESKRLLEMMINSIYSQKEVFLRELLSNSSDAIDKIYYKAL
+Homo_sapiens                LNASQIRELREKSEKFAFQAEVNRMMKLIINSLYKNKEIFLRELISNASDALDKIRLISL
+Rickettsia_conorii          ----------MIQEKKKFDAEVGKILNLMIHSLYSNKEIFMRELISNASDACDKLRYLSQ
+Coxiella_burnetii           QSGVVSMSLQPQAETLSFEAEVKQLLHLVAHSLYSNKEIFLRELISNSSDAADKLRYQAL
+Burkholderia_mallei         ----------MTQQTMSFQAEVKQLLHLMIHSLYSNKEIFLRELVSNASDAADKLRFEAL
+Burkholderia_sp.            ----------MAQETMSFQAEVKQLLQLMIHSLYSNKEIFLRELISNASDAADKLRFEAI
+Erwinia_amylovora           -------MTMKGQETRGFQSEVKQLLHLMIHSLYSNKEIFLRELISNASDAADKLRFKAL
+Escherichia_coli            ---------MKGQETRGFQSEVKQLLHLMIHSLYSNKEIFLRELISNASDAADKLRFRAL
+Dickeya_zeae                -------MSMKGQETRGFQSEVKQLLHLMIHSLYSNKEVFLRELISNASDAADKLRFRAL
+Gluconobacter_oxydans       ---MSETNTQKAAEKHEFSAEVGRLLDLVVHALYSDREIFLRELVANAADATDKRRFEAL
+Rhizobium_etli              ----MTTSVEQNVESHVFEADVARLLHMMVHSVYSDKDVFLRELISNAADACEKLRYEAI
+Sinorhizobium_meliloti      -----MSEVETSVEKHVFEADVAKLLHLMVHSVYSDKNVFLRELISNAADACEKLRYEAI
+                                         ..  *.::  .:: :: :::*.:.::*:***::*::** :*    : 
+
+Bacillus_megaterium         TDDSLRFNKESYYIKVTPDKTNRTLTITDTGIGMTQEELESSLGTIARSGSLAFKN---E
+Homo_sapiens                TDENALSGNEELTVKIKCDKEKNLLHVTDTGVGMTREELVKNLGTIAKSGTSEFLNKMTE
+Rickettsia_conorii          SNSELVAGDSNFKITVKVDKDHRQIIIRDNGIGMNKDDLIENLGTIARSGTANFLKSLSG
+Coxiella_burnetii           SDAALYENDADLKIWIDFDKDNRTITIRDNGIGMSREEVIENLGTIAKSGTRAFRELLAE
+Burkholderia_mallei         ENNALYESDPNLRIRLSFDKAARTITIDDNGIGMSRDEAIANLGTIARSGTKEFFSKLSG
+Burkholderia_sp.            ENSALYENDPNLRIRVSYDKAARTVTIDDNGIGMSRDETIAHLGTIARSGTKEFFGKLSG
+Erwinia_amylovora           STPELYEGDGDLRVRVAVDKEKRTLTLSDNGIGMRRDEVIENLGTIAKSGTKSFLESLGS
+Escherichia_coli            SNPDLYEGDGELRVRVSFDKDKRTLTISDNGVGMTRDEVIDHLGTIAKSGTKSFLESLGS
+Dickeya_zeae                SAPELYEGDGELRVRVSIDKEKRTLTISDNGIGMSRDDVVDNLGTIAKSGTKAFLESLGS
+Gluconobacter_oxydans       TDSAL-ALPENASIRINPDKSQKELTISDDGVGMTHDELAQNLGTIARSGTRAFGEKLNA
+Rhizobium_etli              EAPALLGSVAESRITLSLDDESRQLVVEDNGIGMQRDEMIEALGTIARSGTRAFMDRIAA
+Sinorhizobium_meliloti      VAPELLGSDPASRITLTLDEENARLVIEDNGIGMGRDELVESLGTIARSGTRAFMERIEA
+                                         : :  *.    : : * *:** .::    *****.**:  *      
+
+Bacillus_megaterium         NET--KDGHTIIGQFGVGFYAAFMVADVVTVISKALG--SNEAYKWESTGADGYTIEP--
+Homo_sapiens                AQEDGQSTSELIGQFGVGFYSAFLVADKVIVTSKHNN---DTQHIWESDSNE-FSVIADP
+Rickettsia_conorii          DSK--KD-NMLIGQFGVGFYSSFMVADKVTVTSRKAG--EDKVHIWESDGLGEYTVSD--
+Coxiella_burnetii           KKA--ED-SQLIGQFGVGFYSAFIVADRVVVRTRRAGMKADQGVEWESTGEGEYTLKN--
+Burkholderia_mallei         DQQ--KD-AALIGQFGVGFYSGFIVADRITVETRRAGLPASEGVRWESAGEGDFQVDT--
+Burkholderia_sp.            DQQ--KD-AALIGQFGVGFYSGFIVADKITVETRRAGLPASEGVRWVSAGEGDFAVET--
+Erwinia_amylovora           DQA--KD-SQLIGQFGVGFYSAFIVADNVSVRTRAAGAAADEGVFWQSAGEGDYTIAD--
+Escherichia_coli            DQA--KD-SQLIGQFGVGFYSAFIVADKVTVRTRAAGEKPENGVFWESAGEGEYTVAD--
+Dickeya_zeae                DQA--KD-SQLIGQFGVGFYSAFIVADKVTVKTRVAGADAELGVFWESAGEGEYTIAD--
+Gluconobacter_oxydans       AKP--EDRPSLIGQFGVGFYAAFMVADRVDVTSRKAG--SDEAWTWSSDGKGAFTLTP--
+Rhizobium_etli              SKA--GEGAQLIGQFGVGFYSCFMVADRVDVISRRAG--SEEAAKWSSDGKGSYSVAAVN
+Sinorhizobium_meliloti      AQN--KDGAQLIGQFGVGFYSAFMVADNVDVVSRRAG--TDKAWHWASDGKGSYTVSAVD
+                             .    .   :*********: *:*** : * :.  .   .    * * .   : :    
+
+Bacillus_megaterium         -CEKE-TVGTQIILKIKENTEDETYDEYLEEYRLKEIIKKYSDFIRYPIK----------
+Homo_sapiens                RGNTL-GRGTTITLVLKEEA-----SDYLELDTIKNLVKKYSQFINFPIYVWSSKTETVE
+Rickettsia_conorii          -SDKEFTRGTEIVLHIKKEE-----DTFLDHFRLKHIVKSYSDHIAVPIY----------
+Coxiella_burnetii           -IDKP-TRGTEVVLHLKESE-----EEFLDPLRLRAIITKYSDHILLPIV----------
+Burkholderia_mallei         -IERA-ARGTTITLHLREGE-----DELLSSYRLKSIVQKYSDHVALPIL----------
+Burkholderia_sp.            -IERA-ARGTTITLHLRADE-----DELLSSYRLKSIIQKYSDHVALPIL----------
+Erwinia_amylovora           -IEKS-DRGTEITLHLREGE-----DEFLDAWRVRSIISKYSDHIALPVE----------
+Escherichia_coli            -ITKE-DRGTEITLHLREGE-----DEFLDDWRVRSIISKYSDHIALPVE----------
+Dickeya_zeae                -IAKP-GRGTEITLHLREGE-----DEFLDNWRVRSVISKYSDHIALPVE----------
+Gluconobacter_oxydans       -ASRS-TPGTDIVLHMKDDA-----DEFLDSWRLRSIIRKWADHISWPIT----------
+Rhizobium_etli              LAEAP-ERGTRIVLHLMEDA-----KKYTSRWTVERIVKEQSGHVPVAIR----------
+Sinorhizobium_meliloti      LADAP-ARGTRITLHLMDEA-----KTFTSRWTVERIVKEQSGHVPVPIS----------
+                                    ** : * :         .   .   :  :: . : .:  .:           
+
+Bacillus_megaterium         --MDITEKRPKEGSDNELE-------------------DYTEEQVINSMVPIWKKNKNEL
+Homo_sapiens                EPMEEEEAAKEEKEESDDEAAVEEEEEEKKPKTKKVEKTVWDWELMNDIKPIWQRPSKEV
+Rickettsia_conorii          --FF----------DEAGN----------------------NEIQLNSASALWTRPKSEI
+Coxiella_burnetii           --MKKIKTSGADDEDKNET---------------------PEEEVVNRANALWVLPKDKI
+Burkholderia_mallei         --MKKEEWDQEKGEMVEKD----------------------EDETINQASALWTRAKSEV
+Burkholderia_sp.            --MQKEEWDAEKSEMVTKD----------------------EDETVNQASALWTRSKNDI
+Erwinia_amylovora           --IE------THNEEDDTT----------------------TWEKINKAQALWTRNKSDI
+Escherichia_coli            --IEKR-------EEKDGE-------------------TVISWEKINKAQALWTRNKSEI
+Dickeya_zeae                --IESRTESEEEGGEETVA-----------------------WEKINKAQALWTRNKSEI
+Gluconobacter_oxydans       --LRET--------KEDGT---------------------TEDQAANEGTALWSKPKSEI
+Rhizobium_etli              --LI----------EKPGS----------------------EPVEITDGTALWTKSKSEV
+Sinorhizobium_meliloti      --IV----------EKPGA----------------------EPAQVADGTALWTKQKSEI
+                              :                                               .:*   ...:
+
+Bacillus_megaterium         TSEDYEQFYSEKRYGFDKPLTHLHINVDGTIRYNAILFIPENSP---FDYYSKEFEKGLE
+Homo_sapiens                EEDEYKAFYKSFSKESDDPMAYIHFTAEGEVTFKSILFVPTSAPRGLFDEYGSKKSDYIK
+Rickettsia_conorii          TEEQYKEFYKSLSYAIDDPWITMHNKNEGAIEFTNLLFIPSSKT---FDLFHPDRKRRVK
+Coxiella_burnetii           KDEEYKELYKHIAHDFEDPLAWVHNKVEGKLEYTTLLYIPARAP---FDLWNREGQRGLK
+Burkholderia_mallei         TDEQYKQFYQHVAHDHQDPLAWTHNRVEGRSEYTQLLFVPSHAP---FDLWNRDYRGGLK
+Burkholderia_sp.            TDDQYKQFYQHISHDHQDPLTWTHNRVEGRSEYTQLLYVPAHAP---FDLWNREQRGGLK
+Erwinia_amylovora           SEDEYKEFYKHVAHDFTDPLTWSHNRVEGKQEYTSLLYIPAQAP---WDMWNRDHKHGLK
+Escherichia_coli            TDEEYKEFYKHIAHDFNDPLTWSHNRVEGKQEYTSLLYIPSQAP---WDMWNRDHKHGLK
+Dickeya_zeae                SDDEYNEFYKHIAHDFTEPLSWSHNRVEGKQEYTSLLYIPAAAP---WDMWNRDHKHGLK
+Gluconobacter_oxydans       TPEQYAEFYRHISHAFDEPYATLHWRAEGVTEFTALLFLPSARP---FDFMEQSRESRIH
+Rhizobium_etli              SKEEYTDFYRGVSGQYDEPVLTVHFRAEGRHEYTALAFVPGTQP---FDMFDPDRKGRMK
+Sinorhizobium_meliloti      SKDDYTDFYRGVAGQYDEPALTVHFRAEGRHEYTALAFVPGSKP---FDLFDPDRKGRMK
+                              ::*  :*        .*    *   :*   :. : ::*   .   :*    .    : 
+
+Bacillus_megaterium         LYSNGVLIMNKCADLLPDYFSFVKGMVDSEDLSLNISREILQQDRQLQLIAKNIGKKIKN
+Homo_sapiens                LYVRRVFITDDFHDMMPKYLNFVKGVVDSDDLPLNVSRETLQQHKLLKVIRKKLVRKTLD
+Rickettsia_conorii          LYIKRVFISDENIDLIPSYLRFLRGVVDSEDLPLNISRESLQHNSVLEKIKNAITKRVLG
+Coxiella_burnetii           LYVKRIFIMDDAEHFMPMYLRFVKGIVDSNDLPLNISRELLQSNEVINKIKAGCVKRILS
+Burkholderia_mallei         LYVKRVFIMDDAEQLLPQYLRFIKGVVDSSDLPLNVSREILQESRDVKAIREGVTKRALS
+Burkholderia_sp.            LYVKRVFIMDDAEQLLPTYLRFVKGVVDSADLPLNVSREILQESRDVKAIREGVTKRALS
+Erwinia_amylovora           LYVQRVFIMDDAEQFMPNYLRFVKGLIDSNDLPLNVSREILQDSRITQTLRGALTKRSLQ
+Escherichia_coli            LYVQRVFIMDDAEQFMPNYLRFVRGLIDSSDLPLNVSREILQDSTVTRNLRNALTKRVLQ
+Dickeya_zeae                LYVQRVFIMDDAEQFMPTYLRFVRGLIDSNDLPLNVSREILQDNRVTQSLRTALTKRVLQ
+Gluconobacter_oxydans       LHVRRMFITDEAE-LVPNWMRFVQGVVDTEDLPLNVSREMLQATPVLARIRKAVTKRVLS
+Rhizobium_etli              LYVKRVFITDDAE-LMPRYLRFVRGLVDTADLPLNVSREMIQESSILAAIRKGVTNRVIT
+Sinorhizobium_meliloti      LYVKRVFITDEAE-LLPRYLRFVRGLVDTADLPLNVSREMIQESPLLANIRKGLTNRVLT
+                            *: . ::* :.   ::* :: *:.*::*: **.**:*** :*       :     ..   
+
+Bacillus_megaterium         ELKSLLKNE----REKYE-KFYESFGRQLKYGVYSDFGSNKDVLKDLLLFYSSTEK---K
+Homo_sapiens                MIKKIAD-------DKYNDTFWKEFGTNIKLGVIEDH-SNRTRLAKLLRFQSSHHP--TD
+Rickettsia_conorii          ELRKKKEES----PEEYN-KFWANFGGALKEGLCEAT-TNHEKLLEVCIFRSALHN---K
+Coxiella_burnetii           LLEDLAKND----KEKYA-SFWKAFGQVLKEGPAEDF-ANRDRIANLLRFASTHNDTDEQ
+Burkholderia_mallei         MLEELANAEDDAGKEKYK-TFWSAFGQVLKEGVGEDH-ANRERVAKLLRFASTHGDTDAQ
+Burkholderia_sp.            MLEELANSDEAADKEKYA-SFWKEFGQVLKEGIGEDF-ANRERVAKLVRFATTHTGTAEQ
+Erwinia_amylovora           MLERVAKDD----EEKYQ-KFWQQFGLVLKEGPAEDS-GNAETIAKLLRFATTSFEGAAQ
+Escherichia_coli            MLEKLAKDD----AEKYQ-TFWQQFGLVLKEGPAEDF-ANQEAIAKLLRFASTHTDSSAQ
+Dickeya_zeae                MLEKLAKDD----SEKYQ-TFWSQFGLALKEGPAEDS-SNRETVAKLLRFASTHTDSDAQ
+Gluconobacter_oxydans       EISKRAKEA----DSGFN-SFWENFGAVIKEGLWEDA-EHRTEIAGFARFHSTYSD---D
+Rhizobium_etli              AIEKMADSE----PDTYL-KFWENFGAVLKEGIYEDY-ERRTQLMALARFRTSTLS--EG
+Sinorhizobium_meliloti      SIEKLAESD----SEAFA-KIWENFGSVIKEGIYEDF-ERRGQLLALSRFRTTADD--DK
+                             :    .       . :  .::  **  :* *  .    .   :  .  * ::       
+
+Bacillus_megaterium         LVTLDEYVSRMPEDQKYIYYASGESYNRIEKLPQAELVADKGYEILYFTEDIDEFAIKML
+Homo_sapiens                ITSLDQYVERMKEKQDKIYFMAGSSRKEAESSPFVERLLKKGYEVIYLTEPVDEYCIQAL
+Rickettsia_conorii          MISLDEYIANFKEGQSTIYYLSGDNPDKLLSSPQIEGLLSKKIDVLLFTDTVDDFWVNVN
+Coxiella_burnetii           NVSLQDYISRMKPEQNKIYYIVADTYTSAKNSPLLEVFRKKDIEVLLMSDRVDEWLVAHL
+Burkholderia_mallei         DVALADYVARMKPEQTKIYYVTADTWQAAKNSPHLEVFRKKGVEVLLLTDRVDEWMLSFL
+Burkholderia_sp.            TVSLADYVARMKPEQTKIYYVTADTWQAASNSPHLEVFRKKGVEVLLLTDRVDEWMLSFL
+Erwinia_amylovora           TVSLEDYVSRMVEGQEKIYYITADSYAAAKSSPHLELFRKKGIEVLLLSDRIDEWMMSYL
+Escherichia_coli            TVSLEDYVSRMKEGQEKIYYITADSYAAAKSSPHLELLRKKGIEVLLLSDRIDEWMMNYL
+Dickeya_zeae                TVSLDDYISRMVEGQDKIYYITADSYAAAKNSPHLELFRKKGIEVLLLSDRIDEWMMSYL
+Gluconobacter_oxydans       LITLDDYISRMKDGQDAIYYLTGDSLDALKSSAQLEGFRARGLEVLLLSDPVDGFWPERL
+Rhizobium_etli              YRSLAEYVKDAKEGQNAIYYLAGSSLDQLKASPQLEGFRARGIEVLLLTDSVDSFWAVNA
+Sinorhizobium_meliloti      PRALSDYVKEMKEGQSAIYYLTGDNLAQLKASPQLEGFRARGIEVLLLTCPVDSFWVTTA
+                              :* :*:      *  **:  ...       .  * .  .  ::: ::  :* :     
+
+Bacillus_megaterium         MTYKEKEFKSVSSSDLGIEAEEEQ-LNESEE-----KENKELFDYMKK-ALAGKVGDVRA
+Homo_sapiens                PEFDGKRFQNVAKEGVKFDESEKT--KESREAVE--KEFEPLLNWMKDKALKDKIEKAVV
+Rickettsia_conorii          SKYKEHAIKSATRSDIDVEQTTSQSEEKNTDSTKSNDEYKLLTDYFKE-TLGELVKEVKI
+Coxiella_burnetii           NEFEGKSLQSIAKGTLDLGDLEKE-EKVETEKFE--KDFDELLKQFKE-VLGEKIKDVRI
+Burkholderia_mallei         HEFDGKPLASVARGDLDLGALNDD-EKKAQEETG--EAMKPVVDKMKE-TLGEKVKDVRV
+Burkholderia_sp.            NEFDGKPLQSVARGDLDLGALNDE-EKQAQEKIG--EEFKPLVEKMKE-ALKDKAKDVRL
+Erwinia_amylovora           TEFDGKTFQSVSKADDALSKLADE-QTEEQKEAG--KALEPFVERVKS-LLGERVKEVRL
+Escherichia_coli            TEFDGKPFQSVSKVDESLEKLADE-VDESAKEAE--KALTPFIDRVKA-LLGERVKDVRL
+Dickeya_zeae                TEFDGKSLQSVSKADESLDKLADD-ANESQKEAE--KALEPFVERVKT-LLGERVKEVRL
+Gluconobacter_oxydans       SSYQEKPLRSVTHSHGDLEKFESV-EADTTEAAD----VEKLVPALKD-ALGDQVKDVRS
+Rhizobium_etli              PEFEGKAFKSITQGAADLAGFPTT-DGQTPQELD-GAGLAIFIGFAKE-KLAGQVSDVRA
+Sinorhizobium_meliloti      PDFDGKPFKSITQGAADLAGIAKN-DDAAAASPEAGAAVTDFVSFARE-TLGEAVSDVRT
+                              :. : : . :     .                       .    .   *     ..  
+
+Bacillus_megaterium         SKRLKTHPVCLSAD-GEVTIEMEKILSAMPDNQN--------VKAEKVLEINVNHDVFAS
+Homo_sapiens                SQRLTESPCALVASQYGWSGNMERIMKAQAYQTGKDISTNYYASQKKTFEINPRHPLIRD
+Rickettsia_conorii          SKKLTSSPACLAVSDAAMDIRMERFLIEQKQIAN---------ASAKNLELNPKNKIIEK
+Coxiella_burnetii           THRLTDSPTCVVFDENEMSGHLQRLLIQTGQDFM---------QAKPILEINPSHPLILR
+Burkholderia_mallei         TFRLTDSPSCLVADDNDMSGYLQRMLKAAGQSAP---------SFQPILEINPEHPLVKA
+Burkholderia_sp.            TFRLTDSPSCLVADDGEMSGYLQRMLKAAGQQAP---------EFHPILEVNPEHALVKG
+Erwinia_amylovora           THRLTDTPAIVTTEANEMTTQMAKLFAAAGQDVP---------EVKYLFELNPEHPLVKR
+Escherichia_coli            THRLTDTPAIVSTDADEMSTQMAKLFAAAGQKEP---------EVKYIFELNPDHVLVKR
+Dickeya_zeae                THRLTDTPAIVTTDANDMSTQMAKLFAAAGQQAP---------EVKYIFELNPEHALVKR
+Gluconobacter_oxydans       TVRLTGSAVVITSD-GGPDLTMQRLMRRSGQAMP---------AMPPILEINPKHPLIKA
+Rhizobium_etli              SDRLTESAVCLVAPEDGYDRQMEKILQNAGRLQG---------AAKPILEINLAHPLVRA
+Sinorhizobium_meliloti      SDRLTESAVCLVAPEQGPDRQLQKMLQDAGRIEG---------APKPVLEINPGHQLIAA
+                            : .*.  .  :          : .::                      :*:*  : :.  
+
+Bacillus_megaterium         LKDAFENDKGKLD--LYTNLLYNQALLIEGLSISDPVEFTNDICKIMI------------
+Homo_sapiens                MLRRIKEDEDDKTVLDLAVVLFETATLRSGYLLPDTKAYGDRIERMLRLSLNIDPDAKVE
+Rickettsia_conorii          IFNDLKANNKNNE--ELVNLIFDQACILEGEPVADTGAFSKRLNDIVQKAIL--------
+Coxiella_burnetii           VKN--ESDKTRFN--RWADLLLNQALLAEGEQLKDPASFVKGLNELLLDS----------
+Burkholderia_mallei         L----KADGADFG--DWCHLLFDQALLAEGGALEDPASFVKRTNALLLSRAA--------
+Burkholderia_sp.            L----HADSANFD--DWCHLLFDQALLAEGGALEDPASFVKRTNALLLSRVG--------
+Erwinia_amylovora           AAD--TQDEARFA--EWIELLLDQALFAEKGTLEDPNQFIRRMNQLLLG-----------
+Escherichia_coli            AAD--TEDEAKFS--EWVELLLDQALLAERGTLEDPNLFIRRMNQLLVS-----------
+Dickeya_zeae                AAD--TQDETQFG--EWVELLLEQALFAERGTLEDPNQFIRRMNQLLTA-----------
+Gluconobacter_oxydans       LAERVAKGESVK---DYATVLLDLARVQEGEPLPDPTGFGRSLATLLAGPAAE-------
+Rhizobium_etli              IAA-VENDASYQE--DATFLLLDQARILDGDRPEDPRKFAERLARVFQRSVPS-------
+Sinorhizobium_meliloti      LATCPSEDKAFRE--DAVKLLLDQARVLDGDRPEDPRAFAERLSRVFGRALKE-------
+                                   .           :: : * . .     *.  :      :.             
+
+Bacillus_megaterium         -----------------------------------------------
+Homo_sapiens                EEPEEEPEETAEDTTEDTEQDEDEEMDVGTDEEEETAKESTAEKDEL
+Rickettsia_conorii          -----------------------------------------------
+Coxiella_burnetii           -----------------------------------------------
+Burkholderia_mallei         -----------------------------------------------
+Burkholderia_sp.            -----------------------------------------------
+Erwinia_amylovora           -----------------------------------------------
+Escherichia_coli            -----------------------------------------------
+Dickeya_zeae                -----------------------------------------------
+Gluconobacter_oxydans       -----------------------------------------------
+Rhizobium_etli              -----------------------------------------------
+Sinorhizobium_meliloti      -----------------------------------------------
+                                                                           
